@@ -1,4 +1,4 @@
-# calc_path_nn
+# Calculate Importance of Neural Network Before Pruning
 
 This project developed methods to calculate the importances for neural network pruning. This project is based on the repo [shrinkbench](https://gitlab.bucknell.edu/tjs030/shrinkbench-research)
 
